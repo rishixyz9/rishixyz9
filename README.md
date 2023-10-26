@@ -3,8 +3,8 @@
 
 - 📫 How to reach me **reach2rishabh@rocketmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/rishabh-vemparala-8b6155205/" target="_blank" rel="noreferrer"></a>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/rishabh-vemparala-8b6155205/" target="_blank" rel="noreferrer"></a></h3>
+
 <p align="left">
 </p>
 
